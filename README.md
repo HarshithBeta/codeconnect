@@ -3,4 +3,4 @@ Users can also use "@ai" and give commmands to ai to generate code and run it lo
 It is a secure platform to write and generate code , chat with others and save the code.
 
 To clone it :
-use git clone
+git clone https://github.com/HarshithBeta/codeconnect.git
